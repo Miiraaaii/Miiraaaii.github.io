@@ -1,6 +1,3 @@
-# Miiraaaii.github.io
-Meu primeiro site de 2024-02
-
 ## Sobre mim 
  - Amo a minha mulher
    
