@@ -2,13 +2,13 @@
 Meu primeiro site de 2024-02
 
 ## Sobre mim 
- kajsbdsahjbdhbsad
-
+ - Amo a minha mulher
+   
  ## O QUE EU GOSTO DE FAZER.
-  ASJKDHSUIADIHASDBAS
+  - Gosto de passar o tempo com a minha mulher
 
 ## NO QUE EU SOU BOM ?
-  AMAR A MINHA MULHER
+  - Amar a minha mulher
 
 # PROJETOS 
- AOISDHASDUHASDHADH
+ - Ainda não consegui desenvolver meu próprios projetos...
